@@ -6,11 +6,7 @@ Built with Python, Scikit-learn, and Streamlit.
 
 ---
 
-## 🚀 Live Demo
 
-> _Add your Streamlit Cloud / Hugging Face link here_
-
----
 
 ## 📌 Features
 
